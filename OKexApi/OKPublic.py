@@ -1,4 +1,4 @@
-from .client import Client
+from .OKClient import Client
 from .consts import *
 
 
