@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
-from okex_api import __version__
+from OkexApi import __version__
 
 setup(
-    name='okex_api',
+    name='OkexApi',
     version=__version__,
     packeges=find_packages,
     requires=[
